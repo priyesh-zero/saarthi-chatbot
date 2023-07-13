@@ -2,7 +2,8 @@
 	"git": {
 		"commitMessage": "chore(release): 🔖 RC - v${version} [skip ci]",
 		"tagName": "v${version}",
-		"tagAnnotation": "🔖 RC - v${version}"
+		"tagAnnotation": "🔖 RC - v${version}",
+		"push": false
 	},
 	"github": {
 		"release": false
