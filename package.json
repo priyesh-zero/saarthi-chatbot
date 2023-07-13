@@ -25,6 +25,7 @@
 		"autoprefixer": "^10.4.14",
 		"commitizen": "^4.3.0",
 		"cz-conventional-changelog": "^3.3.0",
+		"cz-emoji-conventional": "^1.0.1",
 		"eslint": "^8.28.0",
 		"eslint-config-prettier": "^8.5.0",
 		"eslint-plugin-svelte": "^2.30.0",
@@ -45,7 +46,7 @@
 	"type": "module",
 	"config": {
 		"commitizen": {
-			"path": "./node_modules/cz-conventional-changelog"
+			"path": "./node_modules/cz-emoji-conventional"
 		}
 	}
 }
